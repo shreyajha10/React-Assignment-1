@@ -4,7 +4,7 @@
 
 # React To-Do List Application
 
-This is a simple React-based To-Do List application. It allows users to add, delete, and mark tasks as completed.
+This is a simple React-based To-Do application. It allows users to add, delete, and mark tasks as completed.
 
 ## Features
 - Add new tasks.
