@@ -23,12 +23,12 @@ To run this application on your local machine, follow these steps:
  
 2. **Navigate to the Project Directory:**
    ```bash
-cd React-Assignment-1
+   cd React-Assignment-1
 
 
 3. **Install Dependencies**
    ```bash
-npm install
+   npm install
 
 
 4. **Start the Application**
