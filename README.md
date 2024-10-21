@@ -34,3 +34,11 @@ To run this application on your local machine, follow these steps:
 4. **Start the Application**
    ```bash
    npm run dev
+
+
+ ## Technologies Used
+- React
+- Vite
+- JavaScript
+- CSS
+
