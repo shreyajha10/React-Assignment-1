@@ -21,3 +21,16 @@ To run this application on your local machine, follow these steps:
    git clone https://github.com/shreyajha10/React-Assignment-1.git
 
  
+2. **Navigate to the Project Directory:**
+   ```bash
+cd React-Assignment-1
+
+
+3. **Install Dependencies**
+   ```bash
+npm install
+
+
+4. **Start the Application**
+   ```bash
+   npm run dev
