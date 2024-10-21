@@ -1,0 +1,51 @@
+.header {
+              text-align: center;
+              font-size: 2rem;
+              margin-bottom: 20px;
+            }
+            .todo-list {
+              list-style-type: none;
+              padding: 0;
+            }
+            .todo-item {
+              padding: 10px;
+              border: 1px solid #ccc;
+              margin-bottom: 10px;
+              border-radius: 5px;
+              display: flex;
+              justify-content: space-between;
+              align-items: center;
+            }
+            
+            .todo-item.completed span {
+              /* text-decoration: line-through; */
+              color: green;
+            }
+            
+            .buttons {
+              display: flex;
+              gap: 10px;
+            }
+            
+            .complete-btn, .edit-btn, .delete-btn {
+              padding: 5px 10px;
+              border: none;
+              border-radius: 5px;
+              cursor: pointer;
+            }
+            
+            .complete-btn {
+              background-color: green;
+              color: white;
+            }
+            
+            .edit-btn {
+              background-color: orange;
+              color: white;
+            }
+            
+            .delete-btn {
+              background-color: red;
+              color: white;
+            }
+            
