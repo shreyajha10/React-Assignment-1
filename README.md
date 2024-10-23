@@ -19,7 +19,7 @@ To run this application on your local machine, follow these steps:
  
 2. **Navigate to the Project Directory:**
    ```bash
-   cd React-Assignment-1
+   cd ToDoApp
 
 
 3. **Install Dependencies**
